@@ -57,10 +57,14 @@ h3 {
 	margin-left: -30px;
 }
 @media (max-width: 767px) {
-	#main-content {
-		margin-right: 75px;
-		margin-left: 75px;
-	}
+#main-content {
+	margin-right: 75px;
+	margin-left: 75px;
+}
+.navbar-brand h1{
+	font-size: 30px;
+}
+
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
 	background-color: lightgray;
