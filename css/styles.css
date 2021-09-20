@@ -61,10 +61,6 @@ h3 {
 	margin-right: 75px;
 	margin-left: 75px;
 }
-.navbar-brand h1{
-	font-size: 25px;
-}
-
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
 	background-color: lightgray;
